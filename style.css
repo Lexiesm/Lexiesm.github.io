@@ -13,12 +13,12 @@ body {
 }
 
 h1 {
-  color: #ff1a75;
+  color: #075668;
   margin-bottom: 20px;
 }
 
 .gif {
-  width: 300px;
+  width: 500px;
   height: auto;
   margin-bottom: 20px;
   border-radius: 10px;
@@ -28,7 +28,7 @@ h1 {
 .buttons button {
   padding: 15px 30px;
   margin: 10px;
-  font-size: 18px;
+  font-size: 38px;
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -36,17 +36,17 @@ h1 {
 }
 
 #yesBtn {
-  background-color: #ff4d4d;
+  background-color: #074309;
   color: white;
 }
 
 #yesBtn:hover {
-  background-color: #ff1a1a;
+  background-color: #808080;
   transform: scale(1.1);
 }
 
 #noBtn {
-  background-color: #b3b3b3;
+  background-color: #a50707;
   color: white;
 }
 
